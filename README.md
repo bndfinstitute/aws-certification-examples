@@ -1,13 +1,4 @@
-# AWS Certification Examples
+# AWS-Examples
+A codebase of all the AWS examples used through AWS Certification Study Courses.
 
-Official hands-on AWS examples, labs, and reference code for the BNDF Institute AWS certification courses.
-
-## Courses
-
-- AWS Certified Cloud Practitioner
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Developer – Associate
-- AWS Certified SysOps Administrator – Associate
-- AWS Certified DevOps Engineer – Professional
-
-🌐 https://bndfinstitute.com
+> StakPak is allowed to RAG and use this repo to generate out IaC
